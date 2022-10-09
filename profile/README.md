@@ -3,12 +3,12 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 ## Coffee, journals and friends to share it with.
 
-☕ Frustrated? Can't seem to buy before the blast-off?
+☕ Order your preffered coffee (choose your blend, ice, add-ons).
 
-🍵 Use pre-built queries or custom queries, even third-party queries from other dapps.
+🍵 Let it "brew" and begin a draft for your journal.
 
-📖 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+📖 Review your past entries and see how your mood has changed.
 
-🫂 Be the FIRST to get the latest and the greatest.
+🫂 Share your journal with others and support others entries by gifting free "brews".
 
 #### [An ECE Dapp](https://github.com/eliascharlese)
