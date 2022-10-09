@@ -1,5 +1,5 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/194783079-68eb6cb7-dff0-44ed-b5bb-1215eddf34af.png" height="35" width="35" align-items="center" justify-content="center" /> Half & Half
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+A social media platform for posting thoughts and destressing without too much interaction with other users. Blockchain based and maintained, can query and mix data on the blockchain.
 
 ## Coffee, journals and friends to share it with.
 
