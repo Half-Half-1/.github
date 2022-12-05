@@ -11,4 +11,4 @@ A social media platform for posting thoughts and destressing without too much in
 
 🫂 Share your journal with others and support others entries by gifting free "brews".
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
